@@ -19,9 +19,9 @@ from practice_project import today
 '''
 # 1. Define Database Credentials
 USER = "root"              # Default MySQL username is usually 'root'
-PASSWORD = "fardin20000"    # Your MySQL password
+PASSWORD = ""    # Your MySQL password
 HOST = "localhost"         # Server host
-PORT = "3306"              # Default MySQL port (NOT 5432)
+PORT = ""              # Default MySQL port (NOT 5432)
 DBNAME = "hr_training"  # Your MySQL database name
 
 # 2. Build the MySQL Connection URL
